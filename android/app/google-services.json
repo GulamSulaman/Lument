@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190632604161",
+    "project_id": "lumentassignmentapp",
+    "storage_bucket": "lumentassignmentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190632604161:android:688eb7206d67668682c600",
+        "android_client_info": {
+          "package_name": "com.example.Lument"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190632604161-7karsolqsnb84qq7glq3ssrvl8j0fpve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_UKGoBfJ8hhm1KN1utcuTtICnOGGT2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190632604161-7karsolqsnb84qq7glq3ssrvl8j0fpve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
